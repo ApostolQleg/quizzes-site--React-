@@ -4,7 +4,8 @@ export default function QuizForm() {
 	return (
 		<>
 			<form>
-				<Question />
+				<Question id="0" />
+				<Question id="1" />
 			</form>
 		</>
 	);

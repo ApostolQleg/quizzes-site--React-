@@ -1,4 +1,4 @@
-export default function RadioButton({ label, ...props }) {
+export default function Radio({ label, ...props }) {
 	return (
 		<>
 			<input type="radio" {...props} />
