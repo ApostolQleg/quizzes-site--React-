@@ -5,7 +5,7 @@ export default function Header() {
 	return (
 		<>
 			<header>
-				<img src={logoImage} alt="logo" class="logo" />
+				<img src={logoImage} alt="logo" className="logo" />
 				QuizTime bitches!
 			</header>
 			{/* TODO: Make a fucking good navigation bar */}

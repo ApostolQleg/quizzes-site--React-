@@ -1,7 +1,7 @@
 export function QuizCards() {
 	return (
 		<>
-			<div id="container">
+			<div className="container">
 				<div>QuizCards</div>
 			</div>
 		</>

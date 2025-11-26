@@ -1,7 +1,7 @@
 export default function Manage() {
 	return (
 		<>
-			<div id="container">
+			<div className="container">
 				<div>Manage</div>
 			</div>
 		</>

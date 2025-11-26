@@ -1,7 +1,7 @@
 export default function Results() {
 	return (
 		<>
-			<div id="container">
+			<div className="container">
 				<div>Results</div>
 			</div>
 		</>
